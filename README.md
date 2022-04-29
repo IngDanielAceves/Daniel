@@ -30,8 +30,9 @@ En esta evaluacion esta la informacion solicitada por la compañia en este caso 
 
 1️⃣ ¿Qué es un servidor HTTP❓ 
 
-    Es un protocolo de acceso para las páginas web a través de Internet. Es el nombre de un protocolo el cual nos permite realizar una petición de       datos y recursos.
-    El HTTP es el protocolo que se usa para comunicarse con el servidor web con el fin de acceder a un navegador web o página web.
+    Es un protocolo de acceso para las páginas web a través de Internet. Es el nombre de un protocolo el cual nos permite
+    realizar una petición de       datos y recursos,El HTTP es el protocolo que se usa para comunicarse con el servidor web
+    con el fin de acceder a un navegador web o página web.
 
 2️⃣ ¿Qué son los verbos HTTP❓ Mencionar los más conocidos
 
@@ -41,11 +42,13 @@ En esta evaluacion esta la informacion solicitada por la compañia en este caso 
     
     Request HTTP 💬 📥
     La línea de salida de una petición HTTP se conoce como línea de la petición. Siempre es la primera línea del mensaje de solicitud y contiene         tres campos:
+    
     • Un método HTTP
     • Un identificador universal de recursos (URI)
     • Una versión del protocolo HTTP
 
     Response HTTP 💬📤
+    
     Una vez que el servidor ha recibido y procesado la solicitud, éste debe devolver un mensaje de respuesta HTTP hacia el cliente.
     
     Los HTTP headers son la parte central de los HTTP requests y responses, y transmiten información acerca del navegador del cliente, de la página     solicitada, del servidor, etc. 
@@ -57,10 +60,24 @@ En esta evaluacion esta la informacion solicitada por la compañia en este caso 
 
 5️⃣.	¿Qué es el responseCode❓ ¿Qué significado tiene los posibles valores devueltos❓
 
-      Indica si la solicitud de codificación geográfica se ha realizado correctamente o no. Como el error 401 es otro http response code.
-      Son el tipo de comunicación web que se utiliza para indicar problemas o situaciones de los sitios y páginas que se dan por parte del cliente o       del servidor.
+      Indica si la solicitud de codificación geográfica se ha realizado correctamente o no. Como el error 401 es 
+      otro http response code.Son el tipo de comunicación web que se utiliza para indicar problemas o situaciones
+      de los sitios y páginas que se dan por parte del cliente o del servidor.
       
 6️⃣.	¿Cómo se envía la data en un Get y cómo en un POST❓ 
+      
+      La diferencia entre los métodos get y post radica en la forma de enviar los datos a la página cuando se pulsa
+      el botón “Enviar”. Mientras que       el método GET envía los datos usando la URL, el método POST los envía de
+      forma que no podemos verlos (en un segundo plano u "ocultos" al usuario).
+   --------
+      
+      GET:
+      Un resultado usando el método GET, a modo de ejemplo, podría ser el siguiente:
+      http://www.aprenderaprogramar.com/newuser.php?nombre=Pepe&apellido=Flores&email=h52turam%40uco.es&sexo=Mujer  
+      
+      POST:
+      Un ejemplo de uso del método post sería este:
+      <form action="http://www.aprenderaprogramar.com/prog/newuser" method ="post">
 
 7️⃣.	¿Qué verbo http utiliza el navegador cuando accedemos a una página❓
 
