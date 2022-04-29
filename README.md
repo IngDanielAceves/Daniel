@@ -81,7 +81,49 @@ En esta evaluacion esta la informacion solicitada por la compañia en este caso 
 
 7️⃣.	¿Qué verbo http utiliza el navegador cuando accedemos a una página❓
 
+      Utilizamos el metodo GET ya que solo estamos solicitando informacion.
+
 8️⃣ .	💭Explicar brevemente qué son las estructuras de datos JSON y XML dando ejemplo de estructuras posibles.
+
+      XML es uno de los formatos más utilizados para el intercambio de información entre sistemas. 
+      El formato de este estándar está basado en texto para representar información estructurada: 
+      datos, documentos, configuración, etc..
+  ```XML 
+      <pieza tipo="A">
+    <nombre>Tornillo</nombre>
+    <descripcion>Cilindro mecanico con una cabeza utilizado en la fijación temporal de unas piezas con otras 
+      </descripcion>
+      <caracateristica>
+        <tipo>metal</tipo>
+        <tamanyo>10</tamanyo>
+      </caracateristica>
+      <vacio></vacio>
+    </pieza>
+ ```
+ ------
+ 
+       JSON (JavaScript Object Notation): 
+       Formato de intercambio de información más legible por el ser humano e igual de eficaz que XML para la comunicación entre maquinas  
+       y está basado en un subconjunto del lenguaje de programación JavaScript.
+       Ejemplo anterior utilizando JSON.
+       
+ ``` JSON
+        {
+          “pieza”: {
+             “tipo”: “A”
+             “nombre”: “Tornillo”,
+             “descripcion”: “Cilindro mecánico con una cabeza utilizado en la fijación temporal de unas piezas con otras”,
+             “caracteristica”: {
+                “tipo”: “metal”
+                “tamanyo”: 10
+           },
+        “vacio”: “”
+        }
+    }
+
+```
+       
+     
 
 9️⃣.	💭Explicar brevemente el estándar SOAP
 
