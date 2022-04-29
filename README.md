@@ -1,5 +1,14 @@
-### Hi there 👋
-🔭 I’m currently working on ...
+### Hi, Im Daniel Aceves ![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6d47634e6a736657416a593541455a4e77362f67697068792e676966](https://user-images.githubusercontent.com/91232190/165879699-39634a8f-c6fc-447f-bb0d-b52715739573.gif)
+
+
+const Daniel Aceves= {
+  pronouns: "he" | "him",
+  code: [Javascript, HTML5, CSS3, Flutter, Java],
+  tools: [Dark, Visual Studio Code],
+  architecture: ["design applications"],
+ 
+ challenge: "I am studying hard for constant job growth"
+}
 <!--
 **IngDanielAceves/IngDanielAceves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
