@@ -88,9 +88,10 @@ En esta evaluacion esta la informacion solicitada por la compañia en este caso 
       XML es uno de los formatos más utilizados para el intercambio de información entre sistemas. 
       El formato de este estándar está basado en texto para representar información estructurada: 
       datos, documentos, configuración, etc..
-  ```XML 
-      <pieza tipo="A">
-    <nombre>Tornillo</nombre>
+
+```XML 
+     <pieza tipo="A">
+        <nombre>Tornillo</nombre>
     <descripcion>Cilindro mecanico con una cabeza utilizado en la fijación temporal de unas piezas con otras 
       </descripcion>
       <caracateristica>
@@ -127,6 +128,31 @@ En esta evaluacion esta la informacion solicitada por la compañia en este caso 
 
 9️⃣.	💭Explicar brevemente el estándar SOAP
 
+    SOAP es un estándar basado en XML para la transmisión de mensajes en HTTP y otros protocolos de Internet. Es un protocolo 
+    ligero para el intercambio de información en un entorno descentralizado y distribuido.
+
 🔟.	💭Explicar brevemente el estándar REST Full
 
+    RESTful hace referencia a servicios que se implementan como una arquitectura (API).
+
 1️⃣1️⃣.¿Qué son los headers en un request❓ ¿Para qué se utiliza el key Content-type en un header❓
+
+    Transmiten información acerca del navegador del cliente a la pagina solicitada.
+ ------
+ 
+     Cada vez que visitas cualquier sitio se pueden observar los headers del request enviado. 
+     Ejemplo:
+ -----   
+     
+     GET php.net HTTP/1.1 **Accept**: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+     **Accept-Encoding**: gzip, deflate, sdch
+     **Accept-Language**: es-ES,es;q=0.8,en;q=0.6
+     **Cache-Control**: max-age=0
+     **Connection**: keep-alive
+     **Cookie**: COUNTRY=NA%2C122.16.430.651; LAST_LANG=es; LAST_NEWS=3847110839
+     **Host**: php.net
+     **If-Modified-Since**: Mon, 09 Nov 2015 11:50:11 GMT
+     **Upgrade-Insecure-Requests**: 1
+     **User-Agent**: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+     
+     
