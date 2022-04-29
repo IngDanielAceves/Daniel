@@ -1,25 +1,18 @@
-### Hi, Im Daniel Aceves ![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6d47634e6a736657416a593541455a4e77362f67697068792e676966](https://user-images.githubusercontent.com/91232190/165879699-39634a8f-c6fc-447f-bb0d-b52715739573.gif)
+### Hi, I'm Daniel Aceves! ⚡
 
-
+```js
 const Daniel Aceves= {
   pronouns: "he" | "him",
   code: [Javascript, HTML5, CSS3, Flutter, Java],
   tools: [Dark, Visual Studio Code],
-  architecture: ["design applications"],
+  architecture: ["design system pattern"],
  
  challenge: "I am studying hard for constant job growth"
 }
-<!--
-**IngDanielAceves/IngDanielAceves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
 
-Here are some ideas to get you started:
+#### Evaluación Práctica. &reg;
 
-🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+En esta evaluacion esta la informacion solicitada por la compañia en este caso ProContacto para evaluar el nivel de conocimiento que podra otorgar el Ingeniero Daniel Aceves. 
+
+![image](https://user-images.githubusercontent.com/91232190/165880467-7f9e8107-ff7b-4d4c-9ba5-edce4069fe12.png)
