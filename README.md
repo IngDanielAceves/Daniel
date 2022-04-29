@@ -41,7 +41,7 @@ En esta evaluacion esta la informacion solicitada por la compañia en este caso 
 
 ------
 
-### Ejercicio 2 ✔️
+### [Ejercicio2](https://github.com/IngDanielAceves/IngDanielAceves/blob/main/EJERCICIO2.md) ✔️
 #### Comprensión del protocolo HTTP
 
 ![3400326432](https://user-images.githubusercontent.com/91232190/165890113-86fa5b9b-a27e-4a8a-8892-db0ceb1d4a01.png)
