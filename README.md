@@ -141,9 +141,8 @@ En esta evaluacion esta la informacion solicitada por la compañia en este caso 
  ------
  
      Cada vez que visitas cualquier sitio se pueden observar los headers del request enviado. 
-     Ejemplo:
- -----   
-     
+ Ejemplo:
+   
      GET php.net HTTP/1.1 **Accept**: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
      **Accept-Encoding**: gzip, deflate, sdch
      **Accept-Language**: es-ES,es;q=0.8,en;q=0.6
