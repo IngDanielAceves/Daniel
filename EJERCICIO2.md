@@ -1,4 +1,4 @@
-#### Comprensión del protocolo HTTP
+## Comprensión del protocolo HTTP
 
 ![3400326432](https://user-images.githubusercontent.com/91232190/165890113-86fa5b9b-a27e-4a8a-8892-db0ceb1d4a01.png)
 
