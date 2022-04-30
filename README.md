@@ -43,3 +43,4 @@ En esta evaluacion esta la informacion solicitada por la compañia en este caso 
 
 ### [Ejercicio2](https://github.com/IngDanielAceves/IngDanielAceves/blob/main/EJERCICIO2.md) ✔️
 
+### [Ejercicio3](https://github.com/IngDanielAceves/IngDanielAceves/blob/main/EJERCICIO3.md) ✔️
