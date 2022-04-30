@@ -1,4 +1,4 @@
-#### Postman request como cliente
+## Postman request como cliente
 
 ![getpostman-ar21](https://user-images.githubusercontent.com/91232190/166068250-9d717472-ef98-46e9-8c5e-a45e90e15deb.png)
 
@@ -23,3 +23,6 @@ Tip: (Marcar la opción “raw” como body)
 3️⃣	Realizar nuevamente un request GET a la URL: https://procontacto-reclutamiento-default-rtdb.firebaseio.com/contacts.json
 
 ![GET2](https://user-images.githubusercontent.com/91232190/166085214-8866527b-60fc-4515-9f12-ceeafb39811f.PNG)
+
+
+[LINK EJERCICIOS POSTMAN](https://www.getpostman.com/collections/f5674200e593159ffb66)
