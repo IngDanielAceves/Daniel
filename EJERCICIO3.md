@@ -25,4 +25,4 @@ Tip: (Marcar la opción “raw” como body)
 ![GET2](https://user-images.githubusercontent.com/91232190/166085214-8866527b-60fc-4515-9f12-ceeafb39811f.PNG)
 
 
-[LINK EJERCICIOS POSTMAN](https://www.getpostman.com/collections/f5674200e593159ffb66)
+[LINK EJERCICIOS POSTMAN](https://go.postman.co/workspace/Team-Workspace~f4be053e-19e8-4a13-835c-45e5f59cb56e/collection/20153200-5887538e-3dd3-4716-a517-be3be0a72e66?action=share&creator=20153200)
