@@ -18,3 +18,8 @@
   ```
 Tip: (Marcar la opción “raw” como body)
 
+![POST](https://user-images.githubusercontent.com/91232190/166085182-a84e1f25-5a82-496b-a74a-a32415e3a757.PNG)
+
+3️⃣	Realizar nuevamente un request GET a la URL: https://procontacto-reclutamiento-default-rtdb.firebaseio.com/contacts.json
+
+![GET2](https://user-images.githubusercontent.com/91232190/166085214-8866527b-60fc-4515-9f12-ceeafb39811f.PNG)
