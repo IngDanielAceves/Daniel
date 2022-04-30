@@ -26,3 +26,7 @@ Tip: (Marcar la opción “raw” como body)
 
 
 [LINK EJERCICIOS POSTMAN](https://go.postman.co/workspace/Team-Workspace~f4be053e-19e8-4a13-835c-45e5f59cb56e/collection/20153200-5887538e-3dd3-4716-a517-be3be0a72e66?action=share&creator=20153200)
+
+4️⃣   ¿Qué diferencias se observan entre las llamadas el punto 1 y 3❓
+
+      Podemos observar que en el primer get nos da la informacion que se encuentra en el link http proporcionado en cambio cuano hacemos el post con los datos correspondientes se dan de alta en el servidor de la pagina web y al momento de hacer otro get podremos observar que los datos proporcionados en POSTMAN body RAW.
