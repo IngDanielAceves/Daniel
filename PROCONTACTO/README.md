@@ -42,4 +42,6 @@ En esta evaluacion esta la informacion solicitada por la compañia en este caso 
 ------
 
 [EJERCICIO2](https://github.com/IngDanielAceves/IngDanielAceves/blob/main/PROCONTACTO/EJERCICIO2.md)✅ 
+
+
 [EJERCICIO3](https://github.com/IngDanielAceves/IngDanielAceves/blob/main/PROCONTACTO/EJERCICIO3.md)✅ 
