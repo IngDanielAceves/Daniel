@@ -2,6 +2,11 @@
 
 ![Trailhead](https://user-images.githubusercontent.com/91232190/166095224-45fac3c9-fd3f-4d48-90dd-2f900000dace.PNG)
 
+------
+
+##  [PROFILE LINK TrailHead](https://trailblazer.me/id/ingdanielaceves) 📍
+
+------
 
 ### 1️⃣  Fundamento de la plataforma Salesforce
 
