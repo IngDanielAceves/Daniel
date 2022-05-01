@@ -6,11 +6,28 @@
 ### 1️⃣  Fundamento de la plataforma Salesforce
 
 ------
-   ![Plataforma1](https://user-images.githubusercontent.com/91232190/166095165-54c11507-c2ec-4632-96b2-bd9bb7003a76.jpg)
+
+![SalesForceBasics](https://user-images.githubusercontent.com/91232190/166136277-53042382-eede-4dc0-9979-4de0f32f2ece.PNG)
 
 -----
 
 ### 2️⃣ Fundamentos de Apex y .NET
+
+-----
+
+![Apex Net](https://user-images.githubusercontent.com/91232190/166130507-63cf313e-f167-47b0-bdcd-b5fc420bd7de.PNG)
+
+-----
+
+### 3️⃣ Modelado de datos
+
+-----
+
+![DataModeling](https://user-images.githubusercontent.com/91232190/166136205-ea72e3e4-83eb-4f88-812f-59aa37b5866d.PNG)
+
+-----
+
+### 4️⃣ Fundamentos y base de datos de Apex
 
 -----
 
