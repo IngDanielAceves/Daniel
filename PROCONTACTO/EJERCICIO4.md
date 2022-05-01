@@ -31,3 +31,30 @@
 
 -----
 
+![ApexBasics Database](https://user-images.githubusercontent.com/91232190/166140711-a2ee8133-d482-42bb-bd2b-df3773cc1085.PNG)
+
+-----
+
+### 5️⃣ Desencadenadores de Apex
+
+-----
+
+![ApexTriggers](https://user-images.githubusercontent.com/91232190/166141803-4aa8c7d7-a27e-4cb9-82b5-2735720ec06b.PNG)
+
+-----
+
+### 6️⃣	Apex Integration Services
+
+-----
+
+![ApexIntegrationServices](https://user-images.githubusercontent.com/91232190/166143630-b36cd5da-c532-4315-95d3-3b5409bf16f0.PNG)
+
+-----
+
+## Badges
+
+-----
+
+![Badges](https://user-images.githubusercontent.com/91232190/166143677-c8da3f43-830d-4807-a286-ace54eb682c1.PNG)
+
+-----
