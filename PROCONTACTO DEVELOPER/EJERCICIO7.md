@@ -68,6 +68,7 @@ CallEmailDaniel.getCharacter(-N0s2y5h8KgsdhnDzyIs);
 
 ### Result Debug
 
+![Debug](https://user-images.githubusercontent.com/91232190/166292475-a558c165-ec2b-4932-b07d-84534f1db28f.PNG)
 
 
 
