@@ -41,14 +41,14 @@ En esta evaluacion esta la informacion solicitada por la compañia en este caso 
 
 ------
 
-[EJERCICIO2](https://github.com/IngDanielAceves/IngDanielAceves/blob/main/PROCONTACTO/EJERCICIO2.md)✅ 
+[EJERCICIO2](https://github.com/IngDanielAceves/IngDanielAceves/blob/main/PROCONTACTO%20DEVELOPER/EJERCICIO2.md)✅ 
 
 
-[EJERCICIO3](https://github.com/IngDanielAceves/IngDanielAceves/blob/main/PROCONTACTO/EJERCICIO3.md)✅ 
+[EJERCICIO3](https://github.com/IngDanielAceves/IngDanielAceves/blob/main/PROCONTACTO%20DEVELOPER/EJERCICIO3.md)✅ 
 
-[EJERCICIO4](https://github.com/IngDanielAceves/IngDanielAceves/blob/main/PROCONTACTO/EJERCICIO4.md)✅ 
+[EJERCICIO4](https://github.com/IngDanielAceves/IngDanielAceves/blob/main/PROCONTACTO%20DEVELOPER/EJERCICIO4.md)✅ 
 
-[EJERCICIO5](https://github.com/IngDanielAceves/IngDanielAceves/blob/main/PROCONTACTO/EJERCICIO5.md)✅
+[EJERCICIO5](https://github.com/IngDanielAceves/IngDanielAceves/blob/main/PROCONTACTO%20DEVELOPER/EJERCICIO5.md)✅
 
 [EJERCICIO6](https://github.com/IngDanielAceves/IngDanielAceves/blob/main/PROCONTACTO%20DEVELOPER/EJERCICIO6.md)✅
 
