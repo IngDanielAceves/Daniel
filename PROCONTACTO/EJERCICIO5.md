@@ -11,8 +11,8 @@
 | 5 | Product       | Este objeto tiene la caracteristica de guardar los datos de varios campos que se usan solo para programaciones de cantidad e ingresos.| 2 , 9 |
 | 6  | PriceBook    | Este objeto guarda los datos de precios que contiene la lista de productos que vende su organizacion.| 5 , 4 , 10|
 | 7 | Quote         | Este objeto en particular que representa una cotizacion que contiene los datos de registro de precios propuestos para productos y servicios.| 5 |
-| 8  | Assest       | | 2 , 3 , 5 , 9 |
-| 9  | Case         | | 2 , 3 , 5 , 8 |
+| 8  | Assest       | Este objeto tiene la caracterisitica de guardar los datos para realizar un seguimiento de los productos vendidos a los clientes.| 2 , 3 , 5 , 9 |
+| 9  | Case         | En este objeto guarda datos particularmente los asuntos o problemas del cliente. | 2 , 3 , 5 , 8 |
 | 10  | Article     | Este objeto se puede utilizar para asociar un artículo con categorías de datos de un grupo de categorías de datos o para consultar las selecciones de categoría de un artículo. | 4 , 6|
 
 -----
