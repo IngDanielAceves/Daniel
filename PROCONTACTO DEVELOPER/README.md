@@ -51,3 +51,5 @@ En esta evaluacion esta la informacion solicitada por la compañia en este caso 
 [EJERCICIO5](https://github.com/IngDanielAceves/IngDanielAceves/blob/main/PROCONTACTO/EJERCICIO5.md)✅
 
 [EJERCICIO6](https://github.com/IngDanielAceves/IngDanielAceves/blob/main/PROCONTACTO%20DEVELOPER/EJERCICIO6.md)✅
+
+[EJERCICIO7](https://github.com/IngDanielAceves/IngDanielAceves/blob/main/PROCONTACTO%20DEVELOPER/EJERCICIO7.md)✅
