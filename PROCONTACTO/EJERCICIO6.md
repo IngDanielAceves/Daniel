@@ -2,7 +2,7 @@
 
 ------
 
-![Salesforce-logo](https://user-images.githubusercontent.com/91232190/166180802-924fb39d-41e6-4c66-9f16-50914b10a7ee.jpg)
+![Salesforce-logo](https://user-images.githubusercontent.com/91232190/166181093-07d9e53e-7ebd-4698-ab05-6767e871db16.jpg)
 
 ------
 
@@ -32,7 +32,7 @@
 ## Funcionalidades de Salesforce
 ------
 
-![Salesforce-logo](https://user-images.githubusercontent.com/91232190/166181093-07d9e53e-7ebd-4698-ab05-6767e871db16.jpg)
+![png-salesforce-logo-png-Salesforce-Logo-Black-And-White_thumbnail](https://user-images.githubusercontent.com/91232190/166187082-7eb88d51-4e39-432c-a026-46f47c4a4e27.png)
 
 ------
 
@@ -107,5 +107,84 @@
     Es una aplicacion de colaboracion en tiempo real de salesforce que permite a sus usuarios trabajar juntos, 
     comunicarse y compartir informacion. Chatter conecta, compromete y motiva a los usuarios para trabajar 
     de forma eficiente en la organizacion independientemente de la funcion o ubicacion.
+
+## Conceptos generales
+------
+
+![Salesforce com-Logotipo-1999-2014](https://user-images.githubusercontent.com/91232190/166187095-5c4d377e-c53f-42ec-8bfb-b9d7d4119457.jpg)
+
+------
+
+⚪A.	¿Qué significa SaaS❓
+
+     Es un modelo de entrega de software basado en la nube en el que el proveedor de la nube desarrolle y mantiene
+     el software de las aplicaciones en la nube.
+
+⚪B.	¿Salesforce es Saas❓
+
+     Si ya que es una forma de poner a disposicion softwares y soluciones de tecnologia por medio de la internet, 
+     como un servicio.
+
+⚪C.	¿Qué significa que una solución sea Cloud❓
+
+      Significa que permitira el acceso remoto a softwares al almacenamiento de archivos y procesamiento de datos
+      por medio de internet.
+
+⚪D.	¿Qué significa que una solución sea On-Premise❓
+
+      Permite tener acceso fisico a la informacion y control directo de la configuracion,manejo y seguridad de esos datos.
+
+⚪E.	¿Qué es un pipeline de ventas❓
+
+      El proceso de actividades y estrategias que necesita un vendedor para accelerar el ciclo de ventas, transformado 
+      clientes protenciales en clientes.
+
+⚪F.	¿Qué es un funnel de ventas❓
+
+      Es la forma en que una empresa planea y establece procesos para ponerse en contacto con los diferentes usuarios 
+      y asi llegar a cumplir un objetivo final.
+
+⚪G.	¿Qué significa Customer Experience❓
+
+      Es la experiencia que formara al consumidor en duncion de sus iteracciones con la marca, que pueden ser 
+      positivas o negativas.
+
+⚪H.	¿Qué significa omnicanalidad❓
+
+      Es una estrategia de comunicacion utilizada para estar en contacto con los prospectos o clientes a traves
+      de diferentes canales(email,redes sociales,sitio web,etc.).
+
+⚪I.	¿Qué significa que un negocio sea B2B?¿Qué significa que un negocio sea B2C?¿Qué es un KPI❓
+
+      B2B Empresas que venden a otras empresas
+      B2C El consumidor final es una persona fisica.
+      Indicadores de todas las variables,factores y unidades de medida para generar una estrategia de marketing.
+
+⚪J.	¿Qué es una API y en qué se diferencia de una Rest API❓
+
+      Una API es el conjunto de protocoles y definiciones que se usan para integrar y desarrollar el software 
+      de las apps. Rest API solo esta orientado a aplicaciones web y basicamente es un estilo de arquitectura
+      que gobierna el comportamiento de clientes y servidores.
+      
+
+⚪K.	¿Qué es un Proceso Batch❓
+
+      Es el proceso mediante el cual una computadora completa lotes de trabajos, casi siempre simultaneamente,
+      en orden secuencial y sin parar. Tambien es un comando que garantiza que los trabajos grandes se calculen
+      en partes pequeñas, para mejorar la eficiencia durante el proceso de depuracion.
+
+⚪L.	¿Qué es Kanban❓
+
+      Es un sistema de gestion y control de inventario y flujo. 
+
+⚪M.	¿Qué es un ERP❓
+
+      Es un tipo de software que las organizaciones utilizan para gestionar las actividades empresariales diarias,
+      como la contabilidad, el aprovisionamiento, la gestion de proyectos, la gestion de riesgos, el cumplimiento
+      y las operaciones de la cadena de suministro.
+
+⚪N.	¿Salesforce es un ERP❓
+
+      Si usa el sistema ERP para el registro en libro mayor y los reportes.. 
 
 
